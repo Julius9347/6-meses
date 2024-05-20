@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Freeman&family=Jost:ital,wght@0,100..900;1,100..900&family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Poetsen+One&family=Radio+Canada+Big:ital,wght@0,400..700;1,400..700&family=Roboto+Slab:wght@100..900&display=swap');
+body{
+    background-color: #f393b6;
+}
+img{
+    width: 80%;
+    padding: 0;
+    margin: 10px auto 10px auto;
+    border: dashed #F08080;
+    border-radius: 40% 40% 60% 60%;
+}
+.portada{
+    width: 80%;
+    text-align: center;
+    margin: 10% auto 0 auto;
+}
+.texto{
+  color: #b80546 ;
+  font-family: "Playfair Display", serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+}
+div{
+    width: 80%;
+    text-align: center;
+    margin: 5% auto 0 auto;
+}
+div.texto{
+    background-color: #F08080;
+    padding: 6%;
+    border-radius: 0 50px 50px 50px;
+    border: dashed #CD5C5C;
+}
+.continuar{
+    width: 20%;
+    background-color: #FA8072;
+    border: dashed #CD5C5C;
+    margin: 5% auto 15% auto;
+    color: #b80546;
+    text-decoration: none;
+    padding: 1% 2% 1% 2%;
+
+
+}
+.continuar:hover{
+  background-color: #FFA07A;
+  border: dashed #E9967A;
+  color: #F08080;
+}
+.boton{
+    margin: 5% auto 15% auto;
+}
